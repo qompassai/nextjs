@@ -1,21 +1,21 @@
-<!-- /qompassai/nuxtjs/README.md -->
+<!-- /qompassai/nextjs/README.md -->
 <!-- ---------------------------- -->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
-<h2> Nuxt.js: For "vue"tiful JS   </h2>
+<h2> Next.js: For SEO optimized server side applications   </h2>
 
-<h3> Qompass AI on Nuxt </h3>
+<h3> Qompass AI on Next.JS </h3>
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nuxtjs)
-  <a href="https://nuxt.com/">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nextjs)
+  <a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </a>
 <br>
-<a href="https://nuxt.com/docs">
-  <img src="https://img.shields.io/badge/Nuxt_Documentation-blue?style=flat-square" alt="Nuxt.js Documentation">
+<a href="https://nextjs.org/docs">
+  <img src="https://img.shields.io/badge/Next_Documentation-blue?style=flat-square" alt="Next.js Documentation">
 </a>
-<a href="https://nuxt.com/blog">
-  <img src="https://img.shields.io/badge/Nuxt_Tutorials-green?style=flat-square" alt="Nuxt.js Tutorials">
+<a href="https://nextjs.org/learn">
+  <img src="https://img.shields.io/badge/Next_Tutorials-green?style=flat-square" alt="Next.js Tutorials">
 </a>
 <br>
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
