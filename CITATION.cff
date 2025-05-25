@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "nextjs"
+title: "Qompass AI on Nextjs"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -16,7 +16,7 @@ keywords:
   - Healthcare
   - Post-Quantum Cryptography
   - Quantum
-  - data science
-  - machine learning
-  - python
+  - frontend
+  - nextjs
+  - javascript
 abstract: "Qompass AI on Next.JS: For SEO optimized server-side development"

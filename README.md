@@ -7,6 +7,7 @@
 <h3> Qompass AI on Next.JS </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nextjs)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/nextjs/total?style=flat-square)
   <a href="https://nextjs.org/">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </a>
